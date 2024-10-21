@@ -1,0 +1,523 @@
+{
+  "artists": [
+    {
+      "id": "4TofTRvEUQsznrSPnYnHx9",
+      "name": "Afra",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb68d925b631e47bfcfe404a60"
+    },
+    {
+      "id": "5PRW6j58xEEWL4DDVEITKT",
+      "name": "Dedublüman",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb01c788a11415f322aa46e1b9"
+    },
+    {
+      "id": "4YLcK0MEyqFkdyyzbPTWrs",
+      "name": "Can Kazaz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb1942c24e0c486f6dc87f956b"
+    },
+    {
+      "id": "6bGOmNBU1AOgttgOjh0ldf",
+      "name": "Ati242",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc3a595cff718a1b928d0a1d8"
+    },
+    {
+      "id": "1GMwSpFzrLd12jUX15bHB6",
+      "name": "BLOK3",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb88f95d9d93b457479680526a"
+    },
+    {
+      "id": "1CcZoULzFHa8Uhwo6OlQcp",
+      "name": "Semicenk",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864"
+    },
+    {
+      "id": "50z4meqYMvVCXEv2jDneDN",
+      "name": "Tuğçe Kandemir",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed243f67bb49edd19e4cb0a5"
+    },
+    {
+      "id": "4UW9Hdsrx9kX2HdJ90jRKM",
+      "name": "Era7capone",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eba6e155365d63ce2d3194e18b"
+    },
+    {
+      "id": "15AZJFNrXtIN4Nk8BIOnS2",
+      "name": "Batuflex",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe32035d256529a9b1bc0e190"
+    },
+    {
+      "id": "6WpmH4J0R74ZkHtgm7JLvM",
+      "name": "Narco",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb36c6ef93f2f3f69ab26e2a65"
+    },
+    {
+      "id": "1kRAeenoDZ5jBdzboZQuKa",
+      "name": "Emre Fel",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5b1a2e3a59cf60ed18b06337"
+    },
+    {
+      "id": "6B8uJGKax0QnL9hQSu8pVn",
+      "name": "Shawty",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb39f5454c4a11a5fa5f604ba7"
+    },
+    {
+      "id": "17EAWIoXAMU9Vo9xRrdZQ0",
+      "name": "AKDO",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee6f8dcec8ae014520239e19"
+    },
+    {
+      "id": "1F2v33FQTavJyaD7ZsyhdA",
+      "name": "Gülşen",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf753342d107655a0e882b3fc"
+    },
+    {
+      "id": "53oeVgECSa18dkHBQ9X6Eh",
+      "name": "Murat Boz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb984528fff24dc7d09284d2f2"
+    },
+    {
+      "id": "0V2oXYR7DtrZAEFeILRW2r",
+      "name": "Lvbel C5",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9cff987c68dba5e50d9258a9"
+    },
+    {
+      "id": "4StjyzjcmZ7a9QncHVf0pu",
+      "name": "Simge",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb563951070f1bd0dfe83a154c"
+    },
+    {
+      "id": "1Zj4GtouAnxHq4qw7ooLfm",
+      "name": "Mert Demir",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc882c9dc7229618f8bb94509"
+    },
+    {
+      "id": "6bGOmNBU1AOgttgOjh0ldf",
+      "name": "Ati242",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc3a595cff718a1b928d0a1d8"
+    },
+    {
+      "id": "0V2oXYR7DtrZAEFeILRW2r",
+      "name": "Lvbel C5",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb9cff987c68dba5e50d9258a9"
+    },
+    {
+      "id": "1CcZoULzFHa8Uhwo6OlQcp",
+      "name": "Semicenk",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864"
+    },
+    {
+      "id": "1Tjaa3WWIVU00kfZ8Dvpcl",
+      "name": "ElMusto",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb798c92173db1bd6a3b23c69d"
+    },
+    {
+      "id": "5PRW6j58xEEWL4DDVEITKT",
+      "name": "Dedublüman",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb01c788a11415f322aa46e1b9"
+    },
+    {
+      "id": "1Tjaa3WWIVU00kfZ8Dvpcl",
+      "name": "ElMusto",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb798c92173db1bd6a3b23c69d"
+    },
+    {
+      "id": "5W2dGRPmYetOpUIpErUtD3",
+      "name": "Organize",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7657da73659c6baeb2a97be5"
+    },
+    {
+      "id": "1GMwSpFzrLd12jUX15bHB6",
+      "name": "BLOK3",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb88f95d9d93b457479680526a"
+    },
+    {
+      "id": "4li4dx5mFgZlMVeHlARBHP",
+      "name": "Nazan Öncel",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb6535b5a045d2af904bff89a9"
+    },
+    {
+      "id": "16GyR4WfCnIT2XST4ZLl2B",
+      "name": "Melike Şahin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe6478c6e68e1f7080745648a"
+    },
+    {
+      "id": "1CcZoULzFHa8Uhwo6OlQcp",
+      "name": "Semicenk",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864"
+    },
+    {
+      "id": "1kRAeenoDZ5jBdzboZQuKa",
+      "name": "Emre Fel",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5b1a2e3a59cf60ed18b06337"
+    },
+    {
+      "id": "05c2IUQGegTcqtWeWwuJ06",
+      "name": "Amo988",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebdd69f08a09accbc22ef004ed"
+    },
+    {
+      "id": "16GyR4WfCnIT2XST4ZLl2B",
+      "name": "Melike Şahin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe6478c6e68e1f7080745648a"
+    },
+    {
+      "id": "1CcZoULzFHa8Uhwo6OlQcp",
+      "name": "Semicenk",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb4f7f5c04098374eefedfc864"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1ChceTDGfGOfXFEu4GvPXG",
+      "name": "Ömrümün Son Güzel Günleri (Instrumentals)",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d3cb64a012186401b8754c71",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d3cb64a012186401b8754c71",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d3cb64a012186401b8754c71",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "2pz2OoUPRW1ugq6iOxb8t7",
+      "name": "Eteğimdeki Taşlar (Akustik)",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021f7d3978139428bab1a2143d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511f7d3978139428bab1a2143d",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731f7d3978139428bab1a2143d",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "1Minicp34wParecoDnqnZ5",
+      "name": "Yeni Eski Şarkılar",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c0fc5acd5ecd01c5cf006126",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c0fc5acd5ecd01c5cf006126",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c0fc5acd5ecd01c5cf006126",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "0hyvNlghrFHVQnSNgUoFfc",
+      "name": "Mezarımda Parti Var",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025cd4f05c5a9b103157043e72",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515cd4f05c5a9b103157043e72",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735cd4f05c5a9b103157043e72",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "36P07bti6xD99o7S1acmin",
+      "name": "Brat and it’s completely different but also still brat",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0255a1e72ba425c60a02a9bb47",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485155a1e72ba425c60a02a9bb47",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27355a1e72ba425c60a02a9bb47",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "5ABVGZE1Ykvy6n0MrWWWww",
+      "name": "Manifesto",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279dbe6c33d218de4aa59223b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179dbe6c33d218de4aa59223b",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379dbe6c33d218de4aa59223b",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "7BTCSq0pQjvQpGg4DYQ3GK",
+      "name": "Kamikaze",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f6a385aa751eb497515f6ab3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f6a385aa751eb497515f6ab3",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f6a385aa751eb497515f6ab3",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "4fFgLEh6YkOXFEAbCXLwA0",
+      "name": "Canlı Akustik",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02489ed767c36b6d9704e01b7a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851489ed767c36b6d9704e01b7a",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273489ed767c36b6d9704e01b7a",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "7uYPOokC4WIhsDKHm8o2v5",
+      "name": "Öz Deyişler",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d248d166cdf1b74b1002a3de",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d248d166cdf1b74b1002a3de",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d248d166cdf1b74b1002a3de",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "5SGtrmYbIo0Dsg4kJ4qjM6",
+      "name": "Moon Music",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0209ba52a5116e0c3e8461f58b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485109ba52a5116e0c3e8461f58b",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27309ba52a5116e0c3e8461f58b",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "3F9fArxl0sBbbXVgPVMPKB",
+      "name": "Live @Muses",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026f28ebb72b9ef12f796095c1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516f28ebb72b9ef12f796095c1",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736f28ebb72b9ef12f796095c1",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "0uhIzUpKY7ik74DxXmJoBU",
+      "name": "Olduğum Gibi/Studio Live",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ab1455795605c6731fcab46c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ab1455795605c6731fcab46c",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ab1455795605c6731fcab46c",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "5Gm2EfvHhNu1Nkd1WMMfUW",
+      "name": "MONA LISA",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0279b32776a856f29831c0f02f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485179b32776a856f29831c0f02f",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27379b32776a856f29831c0f02f",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "7mSbYxV6M20yajCMWMthnP",
+      "name": "Yours Truly",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd2d514853bc82ab156b59a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd2d514853bc82ab156b59a2",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd2d514853bc82ab156b59a2",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "3tfWakIRD8SSt9E3VNx3UE",
+      "name": "Madalyon I",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0202a377ffbb9b1d46672269ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485102a377ffbb9b1d46672269ed",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27302a377ffbb9b1d46672269ed",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    },
+    {
+      "id": "4O0Va9SCV5pkAVnDpBVs4l",
+      "name": "Otonom Piyade: Kuzuların Sessizliği",
+      "images": [
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ec954916631142465896c93d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ec954916631142465896c93d",
+          "width": 64
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ec954916631142465896c93d",
+          "width": 640
+        }
+      ],
+      "available_markets": ["TR"]
+    }
+  ]
+}
